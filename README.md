@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C Programming language
 - 💞️ I’m looking for an Internship/Part-time Job
-- 📫 You can contact me by my LinkedIn Profile [LinkedIn Profile](https://www.linkedin.com/in/vineet-yadav-804820190/)
+- 📫 You can contact me by my [LinkedIn Profile](https://www.linkedin.com/in/vineet-yadav-804820190/)
 
 
 # 💻 Tech Stack:
